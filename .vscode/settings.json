@@ -1,0 +1,14 @@
+{
+    "liveServer.settings.port": 5501,
+    "emojisense.languages": {
+    "javascript": true,
+    "HTML5":true,
+        "markdown": true,
+        "plaintext": {
+            "markupCompletionsEnabled": false,
+            "emojiDecoratorsEnabled": false
+        },
+        "scminput": true,
+        "git-commit": true
+    }
+}
